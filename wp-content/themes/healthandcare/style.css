@@ -16022,7 +16022,7 @@ button,
     color: #9b9cab
 }
 .scheme_original .sc_button.sc_button_style_border {
-    border-color: #00b3b8 !important
+    border-color: #fff !important
 }
 .scheme_dark_blue .sc_button.sc_button_style_border {
     border-color: #3156a4
@@ -16034,7 +16034,7 @@ button,
     border-color: #69c8f8
 }
 .scheme_original .sc_button.sc_button_style_border {
-    color: #00b3b8 !important
+    color: #fff !important
 }
 .scheme_dark_blue .sc_button.sc_button_style_border {
     color: #3156a4
@@ -16114,7 +16114,7 @@ button,
     background-color: #69c8f8
 }
 .scheme_original .sc_button.sc_button_bg_user {
-    color: #00b3b8 !important
+    color: #fff !important
 }
 .scheme_dark_blue .sc_button.sc_button_bg_user {
     color: #00b3b8 !important
@@ -16126,7 +16126,7 @@ button,
     color: #00b3b8 !important
 }
 .scheme_original .sc_button.sc_button_bg_user:before {
-    color: #00b3b8 !important
+    color: #fff !important
 }
 .scheme_dark_blue .sc_button.sc_button_bg_user:before {
     color: #00b3b8 !important
