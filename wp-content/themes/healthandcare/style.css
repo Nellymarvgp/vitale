@@ -19421,7 +19421,7 @@ button,
     color: #fff
 }
 .scheme_original .footer_banner .content_wrap .btn_banner a {
-    background-color: #fff
+    background-color: #fff !important;
 }
 .scheme_dark_blue .footer_banner .content_wrap .btn_banner a {
     background-color: #0484cf
