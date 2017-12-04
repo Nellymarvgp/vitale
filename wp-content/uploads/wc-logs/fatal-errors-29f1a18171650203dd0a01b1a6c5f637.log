@@ -1,0 +1,12 @@
+2017-12-04T14:47:51+00:00 CRITICAL Uncaught Error: Call to undefined function healthandcare_reviews_marks_to_display() in C:\xampp\htdocs\vitale\wp-content\themes\healthandcare\fw\core\core.wp.php:1322
+Stack trace:
+#0 C:\xampp\htdocs\vitale\wp-content\themes\healthandcare\fw\core\core.wp.php(1262): healthandcare_get_post_data(Array, NULL)
+#1 C:\xampp\htdocs\vitale\wp-content\themes\healthandcare\single.php(21): healthandcare_show_post_layout(Array)
+#2 C:\xampp\htdocs\vitale\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\vitale\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#4 C:\xampp\htdocs\vitale\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#5 C:\xampp\htdocs\vitale\wp-content\themes\healthandcare\page.php(6): get_template_part('single')
+#6 C:\xampp\htdocs\vitale\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\vitale\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\vitale\index.p
+

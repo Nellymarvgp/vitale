@@ -1,0 +1,35 @@
+@charset 'utf-8';
+/*
+  Theme Name:   Healthandcare
+  Theme URI:    http://healthandcare.ancorathemes.com/
+  Description:  Healthandcare - Multipurpose and Multiskin Responsive Wordpress theme
+  Author:       Ancorathemes
+  Author URI:   http://ancorathemes.com/
+  Template:     healthandcare
+  Version:      1.2
+  Tags: light, responsive-layout, flexible-header, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, full-width-template, microformats, post-formats, theme-options, threaded-comments, translation-ready
+  Text Domain:  healthandcare
+*/
+
+
+@import url("../healthandcare/style.css");
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+.top_panel_top {
+    background: #f0f0f0 !important;
+}
+.home .scheme_original .colored_line .colored_line_color1 {
+    background-color: #95c221;
+}
+.home .scheme_original .colored_line .colored_line_color2 {
+    background-color: #00b3b8;
+}
+.home .scheme_original .colored_line .colored_line_color3 {
+    background-color: #018079;
+}
+.home .scheme_original .colored_line .colored_line_color4 {
+    background-color: #00a39c;
+}
