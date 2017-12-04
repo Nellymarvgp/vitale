@@ -16629,6 +16629,13 @@ button,
 }
 #seccion5 h2.sc_title.sc_title_iconed {
     text-align: left;
+    margin: 0 !important;
+    padding-left: 5% !important;
+}
+#seccion5 h2.sc_title.sc_title_iconed span {
+    display: none;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 .scheme_dark_blue .sc_contact_form form .sc_contact_form_item select {
     color: #fff
