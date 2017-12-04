@@ -13556,7 +13556,7 @@ input[type="checkbox"] + label:before {
     color: #fff
 }
 .scheme_original .scroll_to_top {
-    background-color: #00b3b8 !important
+    background-color: #ddd !important
 }
 .scheme_dark_blue .scroll_to_top {
     background-color: #3156a4
