@@ -9423,7 +9423,7 @@ select {
 .scheme_original input[type="password"],
 .scheme_original textarea,
 .scheme_original select {
-    background-color: rgba(255, 255, 255, 0.25)
+    background-color: #fff !important;
 }
 .scheme_dark_blue input[type="text"],
 .scheme_dark_blue input[type="number"],
@@ -16579,7 +16579,7 @@ button,
     color: #00b3b8 !important
 }
 .scheme_original .sc_contact_form {
-    background-color: #10b8bc
+    background-color: transparent !important;
 }
 .scheme_dark_blue .sc_contact_form {
     background-color: #0484cf
@@ -16603,7 +16603,7 @@ button,
     color: #fff
 }
 .scheme_original .sc_contact_form form {
-    background-color: rgba(255, 255, 255, 0.1)
+    background-color: transparent !important;
 }
 .scheme_dark_blue .sc_contact_form form {
     background-color: rgba(255, 255, 255, 0.1)
@@ -16615,7 +16615,8 @@ button,
     background-color: rgba(255, 255, 255, 0.1)
 }
 .scheme_original .sc_contact_form form .sc_contact_form_item select {
-    background-color: rgba(255, 255, 255, 0.25) !important
+    background-color: #fff !important;
+    color: gray !important;
 }
 .scheme_dark_blue .sc_contact_form form .sc_contact_form_item select {
     background-color: rgba(255, 255, 255, 0.25) !important
