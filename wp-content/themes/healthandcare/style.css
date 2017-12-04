@@ -17554,6 +17554,8 @@ button,
 }
 h4.sc_services_item_title a {
     color: #fff !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
 }
 .scheme_dark_blue .sc_services_item .sc_services_item_readmore span {
     color: #3156a4
