@@ -16150,7 +16150,7 @@ button,
     color: #00b3b8 !important
 }
 .scheme_original .sc_button.sc_button_bg_user.sc_button_size_small:before {
-    color: #00b3b8 !important
+    color: #fff !important
 }
 .scheme_dark_blue .sc_button.sc_button_bg_user.sc_button_size_small:before {
     color: #00b3b8 !important
