@@ -16614,10 +16614,7 @@ button,
 .scheme_colored .sc_contact_form form {
     background-color: rgba(255, 255, 255, 0.1)
 }
-.scheme_original .sc_contact_form form .sc_contact_form_item select {
-    background-color: #fff !important;
-    color: gray !important;
-}
+
 .scheme_dark_blue .sc_contact_form form .sc_contact_form_item select {
     background-color: rgba(255, 255, 255, 0.25) !important
 }
@@ -16630,11 +16627,18 @@ button,
 .scheme_original .sc_contact_form form .sc_contact_form_item select {
     color: #fff
 }
+#seccion5 h2.sc_title.sc_title_iconed {
+    text-align: left;
+}
 .scheme_dark_blue .sc_contact_form form .sc_contact_form_item select {
     color: #fff
 }
 .scheme_green .sc_contact_form form .sc_contact_form_item select {
     color: #fff
+}
+#seccion5 form .sc_contact_form_item select {
+    background-color: #fff !important;
+    color: gray !important;
 }
 .scheme_colored .sc_contact_form form .sc_contact_form_item select {
     color: #fff
