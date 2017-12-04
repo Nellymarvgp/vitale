@@ -15920,7 +15920,7 @@ button,
 .scheme_original input[type="button"],
 .scheme_original button,
 .scheme_original .sc_button.sc_button_style_filled {
-    background-color: transparent;
+    background-color: transparent !important;
     border: 1px solid #fff !important;
 }
 
