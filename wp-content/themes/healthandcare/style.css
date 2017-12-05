@@ -4537,6 +4537,8 @@ blockquote cite {
 }
 .contacts_wrap .contacts_address .address_right {
     float: none;
+    margin: 0 9% 5% !important;
+    width: 58%;
 }
 /* Testimonials and Twitter area */
 
@@ -8540,18 +8542,7 @@ body {
     float: left;
     padding-right: 20px;
 }
-/*
-Attention! Do not modify this .css-file!
-Please, make all necessary changes in the corresponding .less-file!
-*/
 
-@charset "utf-8";
-body {
-    font-family: "Open Sans", sans-serif;
-    font-size: 13px;
-    line-height: 1.846em;
-    font-weight: 600
-}
 .scheme_original body {
     color: #9b9cab
 }
@@ -20152,7 +20143,7 @@ h1.sc_title.sc_title_iconed, h1.sc_title.sc_title_regular.sc_align_center, .sc_s
 .sc_googlemap.inited {
     width: 50% !important;
     float: left;    
-    height: 553px !important;
+    height: 630px !important;
 }
 footer.contacts_wrap.scheme_original {
     width: 50%;
