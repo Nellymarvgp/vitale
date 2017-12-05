@@ -7239,8 +7239,12 @@ div.sc_infobox.sc_infobox_iconed:before {
     right: 1.15384rem;
 }
 .sc_list .sc_list_item {
-    font-size: 1.154rem;
+    font-size: 18px !important;
     line-height: 1.5em;
+    width: 50%;
+    float: left;
+    padding-right: 10% !important;
+    margin-bottom: 50px !important;
 }
 .sc_line {
     margin: 0 0 2em;
@@ -20162,4 +20166,39 @@ footer.contacts_wrap.scheme_original {
     background-color: rgba(239,239,239,0.1);
     padding: 7% 112px;
     font-size: 22px !important;
+}
+.testimonio1 blockquote p,.testimonio2 blockquote p,.testimonio3 blockquote p {
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 18px;
+    color: #10b8bc !important;
+    font-weight: bold;
+}
+.testimonio1 blockquote,.testimonio2 blockquote,.testimonio3 blockquote {
+    margin: 5%;
+    background: #e6e6e6;
+    padding: 10% 18%;
+}
+.testimonio1 blockquote::before,.testimonio2 blockquote::before,.testimonio3 blockquote::before{
+    display: none;
+}
+.testimonio1 h5,.testimonio2 h5,.testimonio3 h5{
+color: gray !important;
+}
+.seccion-lista .wpb_text_column.wpb_content_element p {
+    font-size: 30px;
+    margin-bottom: 60px !important;
+    font-weight: 300;
+    color: #10b8bc;
+}
+.sc_list_style_iconed li .sc_list_icon {
+    position: absolute;
+    top: 0;
+    width: 1em;
+    display: inline-block;
+    text-align: center;
+    font-size: 50px;
+    left: -42px;
+    font-weight: 300;
 }
