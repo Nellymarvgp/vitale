@@ -20199,6 +20199,6 @@ color: gray !important;
     display: inline-block;
     text-align: center;
     font-size: 50px;
-    left: -42px;
-    font-weight: 300;
+    left: -42px !important;
+    font-weight: 300 !important;
 }
